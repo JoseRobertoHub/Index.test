@@ -1,0 +1,7 @@
+document.write("o resultado de 6 + 8=");//
+document.write(6+8)
+/*
+escrever
+em 
+várias linhas
+*/
